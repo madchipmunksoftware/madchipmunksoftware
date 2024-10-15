@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello World 👋
+
+I'm currently learning how to build web and mobile (iOS) applications. The ones that I share publically are my personal capstone projects and are free for you to use.
+
+Moody Squirrel Apps is my programmer pen name.
 
 <!--
 **moodysquirrelapps/moodysquirrelapps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
