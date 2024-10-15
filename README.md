@@ -4,6 +4,9 @@ I'm currently learning how to build web and mobile (iOS) applications. The ones 
 
 Moody Squirrel Apps is my programmer pen name.
 
+Live Projects:
+* The Daily BTC: https://thedailybtc.online/
+
 <!--
 **moodysquirrelapps/moodysquirrelapps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
