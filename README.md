@@ -5,7 +5,8 @@ I'm currently learning how to build web and mobile (iOS) applications. The ones 
 Moody Squirrel Apps is my programmer pen name.
 
 Live Projects:
-* The Daily BTC: https://thedailybtc.online/
+* The Daily BTC:  https://thedailybtc.online/
+* Task Ninja:  https://apps.apple.com/us/app/task-ninja-manage-your-todos/id6737160242
 
 <!--
 **moodysquirrelapps/moodysquirrelapps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
