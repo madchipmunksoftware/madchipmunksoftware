@@ -2,7 +2,7 @@
 
 Mad Chipmunk is my programmer pen name. 
 
-I like to build software.
+I like to build and share software.
 
 Live:
 * The Daily BTC:  https://thedailybtc.online/
