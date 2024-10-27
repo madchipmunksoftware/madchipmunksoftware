@@ -1,24 +1,9 @@
 ## Hello World 👋
 
-I'm currently learning how to build web and mobile (iOS) applications. The ones that I share publically are my personal capstone projects and are free for you to use.
+Mad Chipmunk is my programmer pen name. 
 
-Moody Squirrel Apps is my programmer pen name.
+I like to build software.
 
-Live Projects:
+Live:
 * The Daily BTC:  https://thedailybtc.online/
 * Task Ninja:  https://apps.apple.com/us/app/task-ninja-manage-your-todos/id6737160242
-
-<!--
-**moodysquirrelapps/moodysquirrelapps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
